@@ -12,5 +12,5 @@ Change line '29' to define the number of players in the area where the script ac
 
 # How to install (Remember to download the lastest releases)
 - Download files
-- Copy and paste vorp_bossmanager folder to resources/
+- Copy and paste vorp_radius folder to resources/
 - Add ensure vorp_radius to your server.cfg file
